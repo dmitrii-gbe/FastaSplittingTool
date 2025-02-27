@@ -1,7 +1,3 @@
-Here’s a possible description for the repository:
-
----
-
 # Fasta Splitting Tool
 
 ## Overview
