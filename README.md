@@ -46,7 +46,3 @@ g++ -std=c++17 -o FastaSplittingTool main.cpp
 
 ## License
 This project is released under the **MIT License**.
-
----
-
-Would you like to add anything specific, such as author details or additional examples?
